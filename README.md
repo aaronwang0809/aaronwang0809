@@ -19,9 +19,9 @@
 
 I'm a high school student at **Acton-Boxborough Regional High School** interested in the intersection of **biology, medicine, and computation**. My research interests center on **computational biology, biomedical AI, and machine learning**, particularly using computational methods to study complex biological systems.
 
-I've worked with **NTK Labs at National Yang Ming Chiao Tung University (NYCU)** on biomedical research and continue to explore projects spanning **biomedical imaging, self-supervised learning, graph neural networks, and scientific machine learning**.
+My research experience spans both **computational and experimental work**, from machine learning and biomedical imaging to wet-lab research. I've also worked with **NTK Labs at National Yang Ming Chiao Tung University (NYCU)** on the validation and baselining of advanced motion capture systems for hospital settings.
 
-- 🔭 **I’m currently working on** machine learning research in **biomedical imaging, computational biology, and scientific ML**, including self-supervised learning and graph neural networks.
+- 🔭 **I’m currently working on** research in **biomedical imaging, computational biology, and scientific ML**, including self-supervised learning and graph neural networks.
 
 - 🌱 **I’m currently learning** more about **vision transformers, self-supervised representation learning, GNNs, medical imaging, and computational approaches to biology**.
 
@@ -70,13 +70,25 @@ Work includes:
 
 ---
 
-### 3D Biomedical Research @ NTK Labs, NYCU
+### Motion Capture Research @ NTK Labs, NYCU
 
-Worked with **NTK Labs at National Yang Ming Chiao Tung University (NYCU)** on research involving **3D blood-vessel modeling and bioprinting**.
+Worked with **NTK Labs at National Yang Ming Chiao Tung University (NYCU)** on research involving **advanced motion capture (MoCap) systems for use in hospital settings**.
 
-This experience introduced me to biomedical research beyond purely computational work and strengthened my interest in how **experimental biology, biomedical engineering, and computation** can be combined to study complex biological systems.
+I worked specifically on **validation procedure creation and baselining**, helping establish methods for evaluating system performance and creating reference measurements for subsequent testing and analysis.
 
-`Biomedical Research` · `3D Modeling` · `Bioprinting` · `Vascular Systems`
+`Motion Capture` · `Biomedical Technology` · `Validation` · `Data Analysis`· `Biomechanics`
+
+---
+
+### Wet-Lab Research
+
+Conducted **wet-lab biomedical research** as part of a project developed for the **Journal of Emerging Investigators (JEI)**. Worked with co-authors Srikar Bhuvanagiri and Charlie Ji.
+
+This project gave me hands-on experience with the experimental side of biological research, including **experimental design, laboratory procedures, data collection, analysis, and scientific writing**.
+
+Working through the research process from experimentation to interpretation helped shape my interest in combining **experimental biology with computational methods**.
+
+`Wet Lab` · `Experimental Biology` · `Data Analysis` · `Scientific Writing`
 
 ---
 
@@ -99,7 +111,7 @@ I'm particularly interested in building rigorous ML pipelines that emphasize:
 
 ## Research Interests
 
-```text id="rf6ixy"
+```text id="iz0l88"
 Computational Biology
 ├── Machine Learning for Biology
 ├── Biomedical Imaging
@@ -113,11 +125,12 @@ Artificial Intelligence
 ├── Vision Transformers
 └── Graph Neural Networks
 
-Scientific Computing
+Experimental & Scientific Research
+├── Wet-Lab Biology
+├── Experimental Design
 ├── Data Analysis
-├── Simulation
-├── Finite Element Analysis
-└── 3D Modeling
+├── Scientific Computing
+└── Biomedical Technology
 ```
 
 ---
