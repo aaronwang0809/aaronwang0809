@@ -173,9 +173,13 @@ I see programming as a tool for doing science: a way to model complex systems, a
 
 <div align="center">
 
-![Aaron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaronwang0809&show_icons=true&hide_border=true&rank_icon=github)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaronwang0809&theme=github" alt="Aaron Wang's GitHub Profile Summary" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronwang0809&layout=compact&hide_border=true)
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aaronwang0809&theme=github" alt="Aaron Wang's GitHub Stats" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaronwang0809&theme=github" alt="Top Languages by Repository" />
 
 </div>
 
