@@ -39,16 +39,6 @@ My research experience spans both **computational and experimental work**, from 
 
 ## Research & Projects
 
-### Self-Supervised Learning for Biomedical Imaging
-
-Exploring **self-supervised representation learning** for biomedical imaging, including DINO-style training with Vision Transformers.
-
-My current work investigates how useful representations can be learned from **unlabeled biomedical images** and subsequently evaluated for downstream biological and clinical tasks.
-
-`Biomedical Imaging` · `DINO` · `Vision Transformers` · `PyTorch` · `Self-Supervised Learning`
-
----
-
 ### Topology-Aware GNNs for 3D Porous Titanium Scaffolds
 
 Developing a computational pipeline for predicting **stress and strain fields in generative 3D porous titanium scaffolds** using topology-aware graph neural networks.
